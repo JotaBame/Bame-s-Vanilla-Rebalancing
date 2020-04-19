@@ -1,0 +1,3 @@
+An attempt to improve the balance of Vanilla Terraria. Over 100 items have been modified with the intention of making almost every single item in the game viable. Also includes changes to Bosses and Enemies.
+
+For more information, including detailed documentation of all changes, check out the Mod's homepage.
