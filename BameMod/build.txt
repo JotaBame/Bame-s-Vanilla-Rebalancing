@@ -1,3 +1,0 @@
-displayName = Bame's Vanilla Rebalancing
-author = Bame
-version = 1.0
