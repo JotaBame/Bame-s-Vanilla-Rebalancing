@@ -1,0 +1,5 @@
+displayName = Bame's Vanilla Rebalance
+author = Bame
+version = 1.0
+includePDB = true
+homepage = https://forums.terraria.org/index.php?threads/bames-vanilla-rebalancing.87746/
